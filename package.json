@@ -1,0 +1,34 @@
+{
+  "name": "react-practical",
+  "version": "1.0",
+  "description": "This is a library for React (TypeScript)",
+  "main": "index.tsx",
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm i green-native-ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaudev/react-practical.git"
+  },
+  "keywords": [
+    "react-practical",
+    "react",
+    "react-kit",
+    "react-tools",
+    "baochau9xx",
+    "react-native",
+    "checkbox",
+    "thatthuvi"
+  ],
+  "author": "NGUYEN PHUC BAO CHAU (baochau9xx, chaudev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaudev/react-practical/issues"
+  },
+  "homepage": "https://github.com/chaudev/react-practical#readme"
+}
